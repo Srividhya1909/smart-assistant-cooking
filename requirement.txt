@@ -1,0 +1,5 @@
+PYTHON LIBRARIES USED:
+gradio
+pandas
+fuzzywuzzy
+scikit-learn
