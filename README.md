@@ -20,7 +20,6 @@ The Recipe Recommendation Chatbot is a Python-based application that recommends 
 
 Recipe-Chatbot/
 │
-├── Recipe_Chatbot.ipynb
 ├── recipes.csv
 ├── README.md
 └── requirements.txt
@@ -50,5 +49,5 @@ Peanut Butter and Banana Burrito
 
 ## Author
 Srividhya S
-B.Sc Artificial Intelligence
+B.Sc. Computer science with Artificial Intelligence
 AM Jain College, Chennai
